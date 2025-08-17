@@ -1,23 +1,35 @@
 # Archith's Coding Portfolio
-![Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+![Cat sleeping on windowsill.](https://cdn.pixabay.com/animation/2025/04/29/23/55/23-55-02-125_512.gif)
 
-## GITHUB LINKS:  
+Welcome to my coding portfolio! Here, you will find links to my GitHub Repos and Medium articles.  
 
-- [Eye Cursor](https://github.com/archith-datta-erigineni/eye-as-cursor-tracer)
-  - This program uses computer vision to predict where a user's eyes are looking on the screen. While running, the program will move the cursor to where the eye is roughly looking towards. Left wink does a left click and right wink does a right click.
+---
 
-- [SpringBoot](https://github.com/archith-datta-erigineni/spring-ai-gemini-demo)
-  - This program uses the Spring Boot framework to call the Gemini Vortex API with Java.
+## GitHub Projects
 
-- [Postgres](https://github.com/archith-datta-erigineni/postgres-with-java)
-  - This is a simple Java Swing App demonstrating how to query Postgres using Java. The app supports adding, retrieving, deleting, and editing cars in an inventory table in Postgres. Cars are validated for legitimacy using the NHTSA Vehicle API.
+| Project                                     | Description                                                                                                         |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [Eye Cursor](https://github.com/archith-datta-erigineni/eye-as-cursor-tracer)        | Uses computer vision to predict where a user's eyes are looking on the screen. Cursor moves based on gaze; left wink triggers click. |
+| [SpringBoot](https://github.com/archith-datta-erigineni/spring-ai-gemini-demo)       | Java Spring Boot app demonstrating Gemini Vortex API integration.                                                    |
+| [Postgres](https://github.com/archith-datta-erigineni/postgres-with-java)            | Java Swing app for Postgres CRUD on a car inventory table. Features validation and edit/delete/add functionality.    |
 
-## MEDIUM ARTICLES:
+---
 
-- [SpringBoot](https://medium.com/@architherigineni/using-the-spring-boot-framework-to-call-the-chatgpt-api-29850a22a032?source=user_profile_page---------0-------------68e3114c9737----------------------)
-  - This article goes over setting up a Spring Boot App and then using it to connect to the ChatGPT API with Java.
+## Medium Articles
 
-- [PostGres](https://medium.com/@architherigineni/connecting-postgresql-to-visual-studio-code-using-java-93be66242a0a?source=user_profile_page---------1-------------68e3114c9737----------------------)
-  - This article details the process of setting up Postgres on a local Docker container, then performing CRUD operations on it from a Visual Studio Code Java file.
+| Article                                     | Description                                                                                                         |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [SpringBoot](https://medium.com/@architherigineni/using-the-spring-boot-framework-to-call-the-chatgpt-api-29850a22a032?source=user_profile_page---------0-------------68e3114c9737--------------------) | Guide to setting up Spring Boot and connecting to the ChatGPT API using Java.                                        |
+| [PostGres](https://medium.com/@architherigineni/connecting-postgresql-to-visual-studio-code-using-java-93be66242a0a?source=user_profile_page---------1-------------68e3114c9737----------------------) | How to set up Postgres in Docker and perform CRUD operations from a Java file in VS Code.                            |
 
+---
+
+## Contacts
+
+- **GitHub:** [archith-datta-erigineni](https://github.com/archith-datta-erigineni)
+- **Medium:** [@architherigineni](https://medium.com/@architherigineni)
+
+---
+
+<sup>Made by Archith Datta Erigineni</sup>
